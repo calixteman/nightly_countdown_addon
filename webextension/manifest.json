@@ -18,6 +18,8 @@
     "default_popup": "popup/popup.html"
   },
 
+  "homepage_url": "https://github.com/calixteman/nightly_countdown_addon",
+
   "browser_specific_settings": {
     "gecko": {
       "id": "@nightly_countdown",
