@@ -1,0 +1,16 @@
+{
+  "name": "release_addon",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "lint": "eslint background.js popup/popup.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^10.0.2",
+    "globals": "^17.3.0"
+  }
+}
